@@ -1,4 +1,4 @@
 # SubtitleTranslate_Reverso
-SubtitleTranslate using Reverso Context (https://context.reverso.net/)
+SubtitleTranslate for Pot Player using Reverso Context (https://context.reverso.net/).
 Translates from English by default.
-Put file in PotPlayer\Extension\Subtitle\Translate
+Put files in PotPlayer\Extension\Subtitle\Translate
